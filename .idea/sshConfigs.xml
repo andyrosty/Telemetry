@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="208786d5-242c-45f3-b614-80ef99a26689" customName="https://gitlab.com/enlighten-challenge/paging-mission-control" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="https://gitlab.com/enlighten-challenge/paging-mission-control" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
